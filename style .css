@@ -56,3 +56,33 @@ color: orange;
     border-radius: 10px;
     padding: 10px 40px;
 }
+.orange-color{
+    color: orange;
+}
+.documentes{
+    margin-top: 10%;
+    background-image: url(img/images/exp-bg.png);
+   background-repeat: no-repeat;
+   background-position: left;
+}
+.flexible-container{
+    display: flex;
+}
+.experaince-item{
+box-shadow: 10px 10px 40px gray;
+width: 40%;
+margin-left: 5%;
+margin-right: 5%;
+padding-left: 20px;
+border-radius: 10px;
+
+}
+#experaince{
+    border-left: 7px solid orange;
+}
+#item{
+    border-left: 7px solid blue;
+}
+footer p{
+   text-align: center;
+}
