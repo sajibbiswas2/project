@@ -35,3 +35,24 @@ color: orange;
  background-image:url(img/images/top-banner.png);
  background-repeat: no-repeat;
 }
+.sect{
+    margin-top: 10%;
+    background-image: url(img/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.img2 img{
+  width: 25%;
+}
+.Drime {
+    margin-left: 50%;
+    margin-top: -27%;
+   
+}
+.button1{
+    text-decoration: none;
+    /* background-image: linear-gradient(orange tomato) */
+    background-color: orange;
+    border-radius: 10px;
+    padding: 10px 40px;
+}
